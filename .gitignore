@@ -1,0 +1,14 @@
+Visual Micro/.MotorPot.vsarduino.h
+Visual Micro/Compile.vmps.xml
+*.elf
+*.eep
+*.hex
+*.map
+*.a
+*.mk
+*.atsln
+*.atsuo
+*.cppproj
+Debug/Makefile
+Visual Micro/Configuration.Debug.vmps.xml
+Visual Micro/Upload.vmps.xml
