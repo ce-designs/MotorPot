@@ -16,6 +16,9 @@
 * If a second motorized potentiometer needs to be controller with this
 * library then the "DUAL_MOTOR_CONTROL" definition needs to be uncommented.
 * 
+* Please also read the MIT licence: https://github.com/ce-designs/MotorPot/blob/master/LICENCE
+*
+* The library can found and downloaded from here: https://github.com/ce-designs/MotorPot
 */
 
 
